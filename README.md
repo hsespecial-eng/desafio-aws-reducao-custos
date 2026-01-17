@@ -7,6 +7,13 @@
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries. O objetivo do projeto foi elencar 3 serviços AWS com a finalidade de realizar diminuição de custos imediatos e otimização do orçamento de nuvem.
 
+## 🛠️ Tecnologias e Conceitos Utilizados
+- **Cloud Provider:** Amazon Web Services (AWS)
+- **Gestão Financeira:** AWS Budgets e Cost Explorer
+- **Otimização de Recursos:** AWS Trusted Advisor
+- **Estratégia de Armazenamento:** S3 Intelligent-Tiering
+- **Infraestrutura:** Conceitos de EC2, EBS e S3
+
 ## Descrição do Projeto
 
 ### Etapa 1: 
